@@ -280,6 +280,12 @@
   background-color: #01a6a4;
 }
 
+.submit-btn:active {
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  color: #01a6a4;
+}
+
 .agreement {
   font-size: 12px;
   line-height: 16px;
